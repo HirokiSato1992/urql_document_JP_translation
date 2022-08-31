@@ -1,0 +1,2 @@
+# urql_document_JP_translation
+urql 公式ドキュメントの日本語訳です
